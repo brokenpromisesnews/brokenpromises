@@ -8,3 +8,8 @@ theme = "ghostwriter"
     headline = "Broken Promises"
     description = "Keeping our leaders accountable. A non-partisan site that tracks the false claims of both future and past actions that many politicians are notorious for making."
     github = "https://github.com/brokenpromisesnews/brokenpromises"
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 1
