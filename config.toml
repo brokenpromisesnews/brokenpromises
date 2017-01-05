@@ -1,0 +1,10 @@
+languageCode = "en-us"
+title = "Broken Promises"
+baseurl = "https://www.brokenpromises.news/"
+theme = "ghostwriter"
+
+[Params]
+    intro = true
+    headline = "Broken Promises"
+    description = "Keeping our leaders accountable. A non-partisan site that tracks the false claims of both future and past actions that many politicians are notorious for making."
+    github = "https://github.com/brokenpromisesnews/brokenpromises"
