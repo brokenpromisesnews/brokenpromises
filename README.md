@@ -28,9 +28,9 @@ Exactly what constitutes "acceptable" sources is up for debate. But as a guiding
 
 ## How to contribute
 
-This site and repository uses the standardize Github workflow.
+This site and repository uses the standardize [https://guides.github.com/introduction/flow/](Github workflow).
 
-1. Submit a pull request with the changes you feel
+1. Submit a pull request with the changes you feel warrants inclusion
 2. New content (such as adding a new false claim) should follow examples of formatting from previous
 3. Moderators and maintainers make the final determination on includability
 4. Pull request is merged
